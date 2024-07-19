@@ -28,8 +28,34 @@ Perform Cost-Benefit Analysis: Calculate the direct and indirect costs associate
 Presentation of findings and recommendations to stakeholders
 By addressing these challenges and objectives, we aim to equip the HR department with actionable insights and tools to effectively manage employee attrition and foster a more stable and engaged workforce.
 
-![](Executive Summary WJD GLOBAL LTD ISAAC)
-![](Screenshot (108))
+## Chart 1
+The Chart below illustrate the most selling product for the year 2023. With Office Supplies out selling and out profitting all other product. 
+
+![](Screenshot_(108).png)
+
+## Figure 2
+The Figure below depicks the Executive summarry for this sells report.
+
+![](Screenshot_(113).png)
 
 
+## EXECUTIVE SUMMARY
+In March, the Quantity supplied reached its peak at 220,617, which is 2.00% higher than the lowest Quantity recorded in December at 216,281. March alone accounted for 8.39% of the total Quantity supplied. A positive correlation exists between Quantity Supplied and Total Orders.
+Category Performance:
+  - Office Supplies:
+    	Quantity:              133,884 									Orders/Order:     $13,921,614.58 								Profit:                  $1,577,306.94 
+-   Technology:
+  	Quantity:              40,929									Orders/Order:      $4,229,107.47 								Profit:                   $479,218.05					
+-   Furniture:
+  	Quantity:              48,053 								 	Orders/ Order:     $5,012,940.51 								Profit:                   $556,543.90  
+Potential Growth Opportunities
+1.   Technology Sector Expansion:								 The Technology sector, while showing a smaller supply, demonstrates a high potential for growth. Investing in marketing and sales strategies to boost Technology product sales could yield substantial profit increases, given the high profit margin per unit.
+2.   Enhanced Office Supplies Marketing:							 Office Supplies account for the highest sales and profit. Increasing investment in marketing, expanding product lines, or improving upon supply chain could further enhance profitability in this already strong sector.
+3.   Furniture Category Growth:								 Although the Furniture category shows moderate supplies and profits, there is potential for growth through product innovation and targeted marketing strategies. Investment in high-demand furniture products or partnerships with suppliers could increase market share and profitability.
+4.   Diversification into New Product Lines:						      Exploring and investing in new product lines that complement existing categories could open new revenue streams. For instance, ergonomic office furniture or smart technology products for office spaces could attract new customer segments.
+5.   E-commerce and Digital Transformation:						       Investing in e-commerce platforms and digital marketing strategies can increase reach and sales efficiency across all categories. Enhanced online presence and user-friendly platforms can drive higher sales volumes and customer engagement.
+
+By strategically investing in these areas, we can leverage our existing strengths and explore new opportunities for increased profitability. This approach allows us to maximize the efficiency and effectiveness of our current operations while identifying and capitalizing on untapped markets and innovative solutions. By focusing on areas where we already have a competitive advantage, we can enhance our core capabilities, drive growth, and achieve sustainable success. 
+Additionally, exploring new avenues provides us with the potential to diversify our revenue streams, reduce risks, and stay ahead of industry trends. Through careful analysis and targeted investments, we can ensure that our resources are allocated optimally to achieve the highest possible return on investment. 
+This comprehensive strategy will position us to not only meet but exceed our financial goals, securing our long-term profitability and market leadership.
 
