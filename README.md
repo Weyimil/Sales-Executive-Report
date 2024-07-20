@@ -18,6 +18,53 @@ Key Questions:
 2. What are the primary factors contributing to delayed shipments, and how can they be mitigated?
 3. Which customer segments should be targeted for marketing campaigns to maximize sales and profitability?
 
+
+# Cleaning Process Report
+
+## Project Overview:
+This project was conducted entirely using Power BI.
+
+## Extract, Transformation, and Loading (ETL) Process:		
+
+1. Extraction:
+   
+   Utilized the "GET" button in Power BI to extract the CSV file and initiated the transformation process.
+
+2. Transformation:
+
+   A. Data Cleaning:
+   
+    Checked for and addressed missing values, duplicate values, and redundant columns or rows, which were subsequently removed.
+ 
+   B. Normalization:
+   								     
+   Created three duplicate tables to facilitate normalization.			    
+   Removed unrelated columns from each table, retaining only the relevant ones.           
+   Post-normalization, the dataset was organized into a fact table [ecommerce_data (1)] and three-dimension tables [Customer Table, Order_Data Table, and Shipment Table].
+ 
+    C. Column Addition:     								        
+
+    Added a new column, "DAYNAME," to the Order_Data table.			   
+    Populated the "DAYNAME" column using the DAX formula: 			
+    `DAYNAME = FORMAT(Shipping_data[ship_date], "dddd")`. 		               
+   This was done to analyze whether weekend orders or shipments contributed to delayed deliveries.
+
+## Modelling:
+  
+  Data Loading and Relationship Building:   
+  
+  Loaded the transformed data from Power Query into Power BI.
+  Created a data model by establishing relationships between the tables using Customer_Id and Order_Id as key focal points.
+
+## Dashboard Development:
+
+  Design and Implementation:	
+  
+  Designed the dashboard background in PowerPoint.					
+  Imported the background into Power BI’s interactive display view.	               
+  Developed the dashboard by adding Key Performance Indicators (KPIs) and incorporating a Year filter for enhanced data analysis.
+
+
 ## Chart 1
 The Chart below is a dashboard representation of the data set, Highlighting key factors.
 
