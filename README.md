@@ -70,6 +70,7 @@ The Chart below is a dashboard representation of the data set, Highlighting key 
 
 ![](project_Ecomm_screenshot.png)
 ![](RelationshipDiagram.png)
+![](TransformTable.png)
 
 # Executive Summary:
 
