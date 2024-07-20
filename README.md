@@ -21,12 +21,7 @@ Key Questions:
 ## Chart 1
 The Chart below is a dashboard representation of the data set, Highlighting key factors.
 
-![](Screenshot_(108).png)
-
-## Figure 2
-The Figure below depicks the Executive summarry for this sells report.
-
-![](Screenshot_(113).png)
+![](project_Ecomm_screenshot.png)
 
 # Executive Summary:
 
