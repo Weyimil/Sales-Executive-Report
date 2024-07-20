@@ -46,7 +46,7 @@ This project was conducted entirely using Power BI.
 
     Added a new column, "DAYNAME," to the Order_Data table.			   
     Populated the "DAYNAME" column using the DAX formula: 			
-    `DAYNAME = FORMAT(Shipping_data[ship_date], "dddd")`. 		               
+    `DAYNAME = FORMAT(Order_data[order_date], "dddd")`. 		               
    This was done to analyze whether weekend orders or shipments contributed to delayed deliveries.
 
 ## Modelling:
