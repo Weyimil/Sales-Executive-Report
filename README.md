@@ -40,8 +40,10 @@ There is a positive correlation between sales per order and total profit per ord
 Given the substantial profit margins in Office Supplies and the significant market potential for Technology sales, it is imperative to optimize marketing campaigns to boost sales and drive overall profits.
 Addressing the delivery delays in the Office Supplies category should be a priority to improve customer satisfaction and operational efficiency. 
 Leveraging the positive correlation between sales and profits, strategies to increase order quantities, particularly in high-performing months like October, should be explored.
+
 This analysis provides a foundation for strategic decision-making aimed at maximizing sales, enhancing profit margins, and improving operational efficiencies across all product categories.
 Leveraging the positive correlation between sales and profits, strategies to increase order quantities, particularly in high-performing months like October, should be explored.
+
 This analysis provides a foundation for strategic decision-making aimed at maximizing sales, enhancing profit margins, and improving operational efficiencies across all product categories.
 
 
