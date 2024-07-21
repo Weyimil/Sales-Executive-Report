@@ -69,7 +69,15 @@ This project was conducted entirely using Power BI.
 The Chart below is a dashboard representation of the data set, Highlighting key factors.
 
 ![](project_Ecomm_screenshot.png)
+
+## Chart 2
+Relationship Diagram showing its connection.
+
 ![](RelationshipDiagram.png)
+
+## Chart 3                                                                                                                                                                                                                                                                   
+The table below is the Order_data Table showing the Cleaned, Normalized and New Column (DAYNAME) addition.
+
 ![](TransformTable.png)
 
 # Executive Summary:
